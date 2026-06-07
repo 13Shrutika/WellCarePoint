@@ -1,0 +1,64 @@
+.success-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #dff6ff, #f0f9ff);
+  font-family: Arial, sans-serif;
+}
+
+.success-card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  width: 420px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.checkmark {
+  font-size: 50px;
+  color: green;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+.sub-text {
+  color: #7f8c8d;
+  margin-bottom: 20px;
+}
+
+.details-box {
+  text-align: left;
+  background: #f7f9fc;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.details-box p {
+  margin: 5px 0;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #3498db;
+  color: white;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #2980b9;
+}
