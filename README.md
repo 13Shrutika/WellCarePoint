@@ -21,6 +21,7 @@ The system is designed to improve healthcare service accessibility by allowing p
 - View Appointment History
 - Access Medical Records
 - Manage Personal Information
+  
 **Doctor Module**
 - Doctor Registration and Login
 - View Scheduled Appointments
